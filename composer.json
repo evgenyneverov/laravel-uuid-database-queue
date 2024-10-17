@@ -1,5 +1,5 @@
 {
-    "name": "stescacom/laravel-uuid-database-queue",
+    "name": "evgenyneverov/laravel-uuid-database-queue",
     "version": "1.0.0",
     "description": "This enables laravel to use UUID for Job primary key, and enables proper interaction.",
     "type": "project",
@@ -25,8 +25,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.3",
-        "laravel/framework": "^8.0",
-        "doctrine/dbal": "^3.1"
+        "laravel/framework": ">=8.0",
+        "doctrine/dbal": ">=3.1"
     },
     "repositories": [
         {
